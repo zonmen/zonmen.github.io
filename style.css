@@ -1,0 +1,29 @@
+p {
+    color : red;
+    font: 16px/26px "Arial", sans-serif;
+}
+
+.caption {
+    color : green;
+    font-size: 48px;
+    text-align: center;
+}
+
+.text{
+    width: 400px;
+    margin: 0 auto 30px;
+    text-transform: capitalize;
+}
+
+.picture{
+    width: 500px;
+    margin: 0 auto 50px;
+    display: block;
+}
+
+.btn{
+    font-size: 20px;
+    padding: 10px 15px;
+    display: block;
+    margin: 0 auto;
+}
